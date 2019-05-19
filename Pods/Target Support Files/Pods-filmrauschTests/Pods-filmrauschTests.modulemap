@@ -1,0 +1,6 @@
+framework module Pods_filmrauschTests {
+  umbrella header "Pods-filmrauschTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
